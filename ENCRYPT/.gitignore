@@ -1,0 +1,8 @@
+build
+settings
+ENCRYPT
+gradle
+gradlew
+.gradle
+.idea
+local
