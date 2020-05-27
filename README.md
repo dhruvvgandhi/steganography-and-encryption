@@ -1,2 +1,2 @@
 # steganography-and-encryption
- During My 3rd year , we had a minor project subject. in that subject me and my team had work on steganography and encryption. We had studied different method of steganography and encryption. in that subject we had created one android application that having functionality of steganography and encryption. we use LSB (Least Significant Bit) in that we use IMAGE-STEGANOGRAPHY and AES-ENCRYPTION.
+ if you want complete source code of app you can contact me on email dhruvgandhi75675@gmail.com. 
